@@ -1,0 +1,15 @@
+{
+	"description": "bbs",
+	"setting": {
+		"urlCheck": false,
+		"es6": false,
+		"postcss": false,
+		"minified": false,
+		"newFeature": true
+	},
+	"compileType": "miniprogram",
+	"appid": "wx3015c7c9331853c4",
+	"projectname": "lara-app",
+	"miniprogramRoot": "./dist",
+	"condition": {}
+}
